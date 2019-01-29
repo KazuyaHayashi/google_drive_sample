@@ -1,0 +1,14 @@
+{
+  "name": "google_drive_sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kazuya Hayashi <pumpkin.brownies@gmail.com>",
+  "license": "MIT",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron ."
+  },
+  "dependencies": {
+    "electron": "^4.0.2"
+  }
+}
